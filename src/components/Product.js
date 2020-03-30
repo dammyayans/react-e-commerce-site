@@ -63,6 +63,7 @@ Product.propsTypes = {
 };
 
 const ProductWrapper = styled.div`
+  margin-bottom: 16px;
   .card {
     border-color: transparent;
     transition: all 1s linear;
